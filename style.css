@@ -1,0 +1,42 @@
+.main-container{
+    width: 100%;
+    background-color: gainsboro;
+    text-align: center;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-family: "Tahoma"
+  }
+
+  .title{
+    padding-top: 30px;
+    font-family: "console"
+  }
+  
+  .image-container{
+    width: 95%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding-top: 40px;
+  }
+  
+  .image{
+    width: 80%;
+    min-width:70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+  }
+
+  .history-heading{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .history, .history-qoute{
+    text-align: justify;
+    padding: 0 10% 40px 10%;
+    line-height: 30px;
+  }
